@@ -1,0 +1,16 @@
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\bin\Debug\net5.0\cshhrap-examples.exe
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\bin\Debug\net5.0\cshhrap-examples.deps.json
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\bin\Debug\net5.0\cshhrap-examples.runtimeconfig.json
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\bin\Debug\net5.0\cshhrap-examples.runtimeconfig.dev.json
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\bin\Debug\net5.0\cshhrap-examples.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\bin\Debug\net5.0\ref\cshhrap-examples.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\bin\Debug\net5.0\cshhrap-examples.pdb
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.csprojAssemblyReference.cache
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.AssemblyInfoInputs.cache
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.AssemblyInfo.cs
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\ref\cshhrap-examples.dll
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.pdb
+C:\Users\Tiago Curvelo\OneDrive\Documentos\Bootcamp\Decola Dev Avanade 2021\Primeiros passos com .NET + C#\csharp-examples\obj\Debug\net5.0\cshhrap-examples.genruntimeconfig.cache

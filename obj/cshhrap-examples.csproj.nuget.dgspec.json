@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\cshhrap-examples\\cshhrap-examples.csproj": {}
+    "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\csharp-examples\\cshhrap-examples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\cshhrap-examples\\cshhrap-examples.csproj": {
+    "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\csharp-examples\\cshhrap-examples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\cshhrap-examples\\cshhrap-examples.csproj",
+        "projectUniqueName": "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\csharp-examples\\cshhrap-examples.csproj",
         "projectName": "cshhrap-examples",
-        "projectPath": "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\cshhrap-examples\\cshhrap-examples.csproj",
+        "projectPath": "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\csharp-examples\\cshhrap-examples.csproj",
         "packagesPath": "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\cshhrap-examples\\obj\\",
+        "outputPath": "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Primeiros passos com .NET + C#\\csharp-examples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
